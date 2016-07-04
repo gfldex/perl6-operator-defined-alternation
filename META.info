@@ -1,0 +1,8 @@
+{
+    "name" : "Operator::defined-alternation",
+    "version" : "0.0.1",
+    "description" : "Provides a ?? !! equivalent that tests for definedness instread of trueness.",
+    "author" : "Wenzel P. P. Peppmeyer",
+    "depends" : [ ],
+    "source-url" : "git://github.com/gfldex/perl6-operator-defined-alternation.git"
+}
